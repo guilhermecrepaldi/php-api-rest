@@ -40,3 +40,5 @@ API RESTful construida do zero com rotas, JSON responses, JWT auth e migrations.
 <!-- 2022-05-04 16:36 -->
 
 <!-- 2022-08-01 10:20 -->
+
+<!-- 2022-09-26 14:42 -->
